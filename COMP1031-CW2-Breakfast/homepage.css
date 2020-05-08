@@ -2,9 +2,9 @@
 
 .box{
   position: fixed;
-  top: 30%;
+  top: 100px;
   left: 50%; 
-  transform: translate(-50%, -50%);
+  transform: translateX(-50%);
 }
 .sakila
 {
@@ -14,7 +14,7 @@
 
 .container1{
 	margin: 0 auto;
- 	margin-top: 300px;
+ 	margin-top: 450px;
  	position: relative;
  	width: 250px;
  	height: 100px;
